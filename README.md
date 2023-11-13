@@ -27,7 +27,7 @@ We have prepared several data files to capture the experiment's results and part
 
 5. **end_alone.csv**: Contains participant ID and questions that appear only in the end questionnaire.
 
-6. **quantitative_data.csv**: Contains participant ID, the model, the scene_id, the sequence of correct(0) and incorrect (1) actions, and the list of reaction times for each action.
+6. **quantitative_data.csv**: Contains participant ID, the model, the scene_id, the sequence of correct(0) and incorrect (1) actions, and the list of time to complete for each action.
  
 7. **audio_asap_jit_end.csv**: Contains participant ID, the block type (ASAP, JIT, ASAP, or END).
 
@@ -37,7 +37,7 @@ We have prepared several data files to capture the experiment's results and part
 We plan to conduct both quantitative and qualitative evaluations of the experiment:
 
 - **Quantitative Evaluation**:
-  - We will analyze participants' reaction times and error counts for each model and scene combination.
+  - We will analyze participants' time to complete and error counts for each model and scene combination.
 
 - **Qualitative Evaluation**:
   - We will assess participants' experiences using five-point Likert scale questionnaires.
